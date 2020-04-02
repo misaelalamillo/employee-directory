@@ -2,7 +2,7 @@
   "name": "app-employee-directory",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://misaelalamillo.github.io/app-employee-directory",
+  "homepage": "https://misaelalamillo.github.io/employee-directory",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -41,5 +41,4 @@
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
-
 }
